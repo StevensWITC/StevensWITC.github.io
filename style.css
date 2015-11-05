@@ -66,6 +66,9 @@ aside ul li{
 @media 
 only screen and (max-width: 760px),
 (min-device-width: 768px) and (max-device-width: 1024px)  {
+    #maincontent {
+      width:100%
+    }
     aside, section {
       float: center;
       width: 100%;
