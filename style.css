@@ -31,7 +31,6 @@ tr:nth-of-type(odd) {
 }
 thead { 
   background: #333; 
-  color: white; 
   font-weight: bold; 
 }
 td, thead { 
